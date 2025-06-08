@@ -72,5 +72,5 @@ EJERCICIO 1
 
 - Hacemos clic en Generate release notes
 
-- Y por ultimo publicamos el release
+- Y por ultimo publicamos el release 
 
